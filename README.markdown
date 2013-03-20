@@ -1,6 +1,6 @@
 # Javaranch College In Common Lisp
 
-## # README
+## README
 
 ### Overview
 
